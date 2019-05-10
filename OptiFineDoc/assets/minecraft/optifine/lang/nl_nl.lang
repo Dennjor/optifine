@@ -1,0 +1,57 @@
+# Translator = Dennjor - Dennis
+
+# Video instellingen
+
+options.anaglyph.tooltip.2=Zorgt voor een stereoscopisch 3D-effect met gebruik van verschillende kleuren
+
+of.options.shaders.OLD_HAND_LIGHT.tooltip.6=Herken lichtgevende items in je eerste hand.
+
+of.options.shaders.SHADOW_RES_MUL.tooltip.7=Lagere waarden = niet nauwkeurig, grovere schaduwen
+
+# Kwaliteit
+
+of.options.AA_LEVEL.tooltip.5=Scherpe kleurovergangen.
+
+of.options.CUSTOM_COLORS=Aangepaste kleuren
+of.options.CUSTOM_COLORS.tooltip.1=Aangepaste kleuren
+of.options.CUSTOM_COLORS.tooltip.2=  AAN - Maakt gebruik van aangepaste kleuren (standaard), langzamer
+of.options.CUSTOM_COLORS.tooltip.3=  UIT - gebruikt standaardkleuren, sneller
+of.options.CUSTOM_COLORS.tooltip.4=De aangepaste kleuren worden geleverd door de stroom
+of.options.CUSTOM_COLORS.tooltip.5=resource pack
+
+of.options.SWAMP_COLORS=Moeras kleuren
+of.options.SWAMP_COLORS.tooltip.1=Moeras kleuren
+of.options.SWAMP_COLORS.tooltip.2=  AAN - Maakt gebruik van moeras kleuren (standaard), langzamer
+of.options.SWAMP_COLORS.tooltip.3=  UIT - gebruikt geen moeraskleuren sneller
+of.options.SWAMP_COLORS.tooltip.4=De kleuren van het moeras zijn van invloed op gras, bladeren, klimplanten en water.
+
+of.options.SMOOTH_BIOMES.tooltip.5=Het gemiddelde kleur van alle omringende blokken
+
+# Details
+
+of.options.TRANSLUCENT_BLOCKS.tooltip.2=  Mooi - correcte kleurenmenging (standaard)
+of.options.TRANSLUCENT_BLOCKS.tooltip.3=  Snel - snelle kleurenmenging(sneller)
+of.options.TRANSLUCENT_BLOCKS.tooltip.4=Controleert de kleurmenging van doorschijnende blokken
+of.options.TRANSLUCENT_BLOCKS.tooltip.5=met verschillende kleuren (gekleurd glas, water, ijs)
+
+# Prestatie
+
+of.options.SMOOTH_FPS.tooltip.1=Stabiliseert FPS door de grafische driverbuffers te spoelen.
+of.options.SMOOTH_FPS.tooltip.2=  UIT - geen stabilisatie, FPS kan fluctueren
+of.options.SMOOTH_FPS.tooltip.3=  ON - FPS-stabilisatie
+
+of.options.SMOOTH_WORLD.tooltip.2=  UIT - geen stabilisatie, FPS kan fluctueren
+of.options.SMOOTH_WORLD.tooltip.3=  ON - FPS-stabilisatie
+of.options.SMOOTH_WORLD.tooltip.4=Stabiliseert FPS door de interne serverbelasting te distribueren.
+
+of.options.FAST_RENDER.tooltip.3= AAN - geoptimaliseerde weergave (sneller)
+of.options.FAST_RENDER.tooltip.4=Gebruikt geoptimaliseerd renderalgoritme dat afneemt
+
+of.options.FAST_MATH=Snelle wiskunde
+of.options.FAST_MATH.tooltip.1=Snelle wiskunde
+of.options.FAST_MATH.tooltip.2= UIT - standaard wiskunde (standaard)
+of.options.FAST_MATH.tooltip.3= AAN - snellere wiskunde
+of.options.FAST_MATH.tooltip.4=Gebruikt geoptimaliseerde sin () - en cos () -functies die dat wel
+of.options.FAST_MATH.tooltip.5=beter gebruik kunnen maken van de CPU-cache en de FPS verhogen.
+
+of.options.CHUNK_UPDATES.tooltip.6=hogere waarden kunnen de framerate destabiliseren.
